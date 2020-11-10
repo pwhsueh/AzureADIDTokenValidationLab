@@ -1,0 +1,2 @@
+C:\Users\PWHsueh\Documents\Visual Studio 2017\AzureADIDTokenValidationLab\AzureADIDTokenValidationLab\obj\Debug\AzureADIDTokenValidationLab.csprojResolveAssemblyReference.cache
+C:\Users\PWHsueh\Documents\Visual Studio 2017\AzureADIDTokenValidationLab\AzureADIDTokenValidationLab\obj\Debug\AzureADIDTokenValidationLab.csproj.CoreCompileInputs.cache
